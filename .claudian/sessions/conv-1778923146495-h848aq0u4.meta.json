@@ -1,0 +1,23 @@
+{
+  "id": "conv-1778923146495-h848aq0u4",
+  "providerId": "claude",
+  "title": "构建CPT304课程知识库",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778923146519,
+  "updatedAt": 1778923816382,
+  "lastResponseAt": 1778923816382,
+  "sessionId": "e5d539bd-2783-4d55-9c2a-4fb99df1cf25",
+  "providerState": {
+    "providerSessionId": "e5d539bd-2783-4d55-9c2a-4fb99df1cf25"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 98,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 79360,
+    "contextWindow": 200000,
+    "contextTokens": 79458,
+    "percentage": 40,
+    "contextWindowIsAuthoritative": true
+  }
+}
